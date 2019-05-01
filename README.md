@@ -63,8 +63,9 @@ screen and (orientation: landscape) {
 <link href="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.7.1/css/lightbox.css" rel="stylesheet">
    
 </head>
+<!--
 <body onload="alert('2010年同期会の記録〜〜(^o^)/')" onunload="alert('再会の時まで、元気でお過ごしくださいませ〜(^o^)/')">
-
+-->
 <div>
 <p class="note">
   モバイル端末をお使いの場合は、画面を横向きにするとより見やすくご覧頂けます。
