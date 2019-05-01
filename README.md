@@ -72,6 +72,7 @@ screen and (orientation: landscape) {
 </p>
 
 <h1><span class="yellow"><marquee behavior="alternate">!!! 池袋 有志 同期会 2010/08/28 !!!</marquee></span></h1>
+<p>><a href="https://torokoid.github.io/oizumi">Home</a>>2010年同期会</p>
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <!--
