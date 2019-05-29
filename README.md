@@ -40,7 +40,7 @@ body::before {
   z-index:-1;
   width:100%;
   height:100vh;
-  background:url(https://torokoid.github.io/hannari/20100826_001.jpg) center/cover no-repeat; /*fixedをトル！*/
+  background:url(https://torokoid.github.io/oizumi2010/20100828_031.JPG) center/cover no-repeat; /*fixedをトル！*/
   -webkit-background-size:cover;/*Android4*/
   }
 
@@ -103,7 +103,7 @@ screen and (orientation: landscape) {
 <a href="20100828_029.JPG" data-lightbox="abc"><img src="20100828_029.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20100828_030.JPG" data-lightbox="abc"><img src="20100828_030.JPG" alt="サンプル画像" width="900" /></a>
 
-<a href="https://torokoid.github.io/hannari/20100826_001.jpg" data-lightbox="abc"><img src="https://torokoid.github.io/hannari/20100826_001.jpg" alt="サンプル画像" width="900" /></a>
+<a href="https://torokoid.github.io/oizumi2010/20100828_031.JPG" data-lightbox="abc"><img src="https://torokoid.github.io/hannari/20100826_001.jpg" alt="サンプル画像" width="900" /></a>
 <a href="https://torokoid.github.io/hannari/20100826_002.jpg" data-lightbox="abc"><img src="https://torokoid.github.io/hannari/20100826_002.jpg" alt="サンプル画像" width="900" /></a>
 <a href="https://torokoid.github.io/hannari/20100826_003.jpg" data-lightbox="abc"><img src="https://torokoid.github.io/hannari/20100826_003.jpg" alt="サンプル画像" width="900" /></a>
 <a href="https://torokoid.github.io/hannari/20100826_004.jpg" data-lightbox="abc"><img src="https://torokoid.github.io/hannari/20100826_004.jpg" alt="サンプル画像" width="900" /></a>
