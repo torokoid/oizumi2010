@@ -137,6 +137,10 @@ screen and (orientation: landscape) {
 
 <br><br>
 
+<script type='text/javascript' src='https://torokoid.github.io/shiba/jquery.js?ver=1.12.4'></script>
+<script src="https://torokoid.github.io/shiba/jquery.goup.min.js"></script>
+<script src="https://torokoid.github.io/shiba/my.js"></script> 
+
 <!-- フッタ -->
  <footer>
  <span class="white">Copyright 2019/05/01 Pe-Young(S.Hada)</span>
